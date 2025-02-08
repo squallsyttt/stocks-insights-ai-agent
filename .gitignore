@@ -1,3 +1,4 @@
 .stockenv
 logs
 .idea
+.env
